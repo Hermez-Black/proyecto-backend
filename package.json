@@ -1,0 +1,16 @@
+{
+  "name": "proyecto-backend",
+  "version": "1.0.0",
+  "description": "Proyecto de backend Academlo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesus, Braulio, David",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.3.3",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
+  }
+}
