@@ -27,14 +27,15 @@ Users
 
  npx sequelize-cli model:generate --name Usuarios --attributes nombre:string,apellidos:string,edad:integer */
 
-//  Product categories
+//  Product categories 
 // Product tags
 /*
 
 */
 // user-roles
-npx sequelize-cli model:generate --name user_roles --attributes :string,apellidos:string,edad:integer
+// npx sequelize-cli model:generate --name user_roles --attributes :string,apellidos:string,edad:integer
 // cc_transactions
 
 // order_products
+// npx sequelize-cli model:generate --name user_roles --attributes :string,apellidos:string,edad:integer
 // Sales_order
